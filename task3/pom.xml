@@ -18,7 +18,7 @@
 		<java.version>1.8</java.version>
 		<kotlin.version>1.3.72</kotlin.version>
 		<csv.version>1.8</csv.version>
-		<postgres.version>42.1.4</postgres.version>
+		<postgres.version>42.4.1</postgres.version>
 		<math3.version>3.6.1</math3.version>
 	</properties>
 
